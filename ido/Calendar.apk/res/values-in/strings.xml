@@ -272,7 +272,7 @@
 	<string name="network_not_available">Tidak dapat terhubung ke jaringan</string>
 	<string name="new_event_dialog_label">Acara baru</string>
 	<string name="new_event_dialog_option">Acara baru</string>
-	<string name="no_calendars_found">###############################################################################################################################################################################################################################################################</string>
+	<string name="no_calendars_found">Sebelum Anda dapat menambahkan acara, Anda harus menambahkan setidaknya satu akun Kalender ke perangkat Anda dan membuat kalender terlihat. Sentuh Tambahkan Akun untuk menambahkan akun (jika Anda baru saja menambahkan akun, tunggu sampai selesai disinkronkan dan coba lagi). Atau sentuh Batalkan dan pastikan setidaknya satu kalender terlihat.</string>
 	<string name="no_local_calendar">Tidak berlangganan kalender :)</string>
 	<string name="no_network">Tidak ada jaringan, segarkan jaringan dan kemudian mencoba :)</string>
 	<string name="no_network_btn">Coba lagi</string>
