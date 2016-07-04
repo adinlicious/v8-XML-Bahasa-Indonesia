@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Ganti nama</item>
+        <item>Hapus</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galery</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nama</item>
+        <item>Nama Panggilan</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organisasi</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Ulang tahun</item>
+        <item>Website</item>
+        <item>Alamat</item>
+        <item>Catatan</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Kecil</item>
+        <item>Medium</item>
+        <item>Besar</item>
+        <item>Besar banget</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Selamat datang di Catatan
+"</item>
+        <item>"Ketuk untuk membuat catatan
+"</item>
+        <item>"Pilih tema yang indah
+"</item>
+        <item>"Buat folder catatan
+"</item>
+        <item>"Lindungi catatan pribadi
+"</item>
+        <item>"Dan masih banyak lagi fitur lainnya
+  - Sinkronkan dengan Mi Cloud
+  - Set pengingat"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
